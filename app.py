@@ -259,7 +259,7 @@ you can provide a "top" parameter that will limit how many movies the API will r
 The default value for "top" is 50
 '''
 @app.route('/movies/top-rated')
-def get_most_popular():
+def get_top_rated():
     top = request.args.get('top')
     try:
         top = int(top) if top != None else 50
