@@ -30,13 +30,7 @@ Este projeto foi desenvolvido com o objetivo de estudar e praticar o uso do fram
 2. Você só irá precisar instalar o Flask utilizando o comando: `pip install flask`
 
 
-## Configuração
-
-1. Configure as variáveis de ambiente, se necessário.
-2. Certifique-se de ter o banco de dados configurado e populado.
-
 ## Uso
-
 1. Execute a aplicação: `python app.py`
 2. Acesse a API em `http://localhost:3000`
 
