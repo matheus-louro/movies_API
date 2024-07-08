@@ -34,7 +34,3 @@ Este projeto foi desenvolvido com o objetivo de estudar e praticar o uso do fram
 1. Execute a aplicação: `python app.py`
 2. Acesse a API em `http://localhost:3000`
 
-## Contribuições
-
-Este é um projeto de estudo, e contribuições são bem-vindas. Sinta-se à vontade para sugerir melhorias, correções ou novas funcionalidades.
-
